@@ -1,1 +1,3 @@
-My second readme
+My second readme 
+Added and deleted files
+
